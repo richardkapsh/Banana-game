@@ -1,0 +1,55 @@
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Fonts\BetweenFont.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Fonts\messageFont.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Fonts\titleFont.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Background\CoolBackground.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Background\MonkeyTitle.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Banana.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Climb1-removebg-preview.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Climb2-removebg-preview.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Climb3-removebg-preview.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\ExitBtn2.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\GoBtn2.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\InstructionsBtn2.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Levels.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Lock.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Monkey.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\MonkeyAnimations.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Parchment.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Platform.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\PlayBtn2.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Throw1-removebg-preview.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Throw1Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Throw2-removebg-preview.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Throw2Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Throw3-removebg-preview.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Throw3Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Tree-removebg-preview.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Tree.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk1Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk1Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk2Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk2Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk3Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk3Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk4Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk4Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk5Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk5Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk6Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk6Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk7Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk7Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk8Left.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Content\Images\Sprites\Walk8Removed.xnb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\PASS 3.exe.config
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\PASS 3.exe
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\PASS 3.pdb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Animation2D.dll
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\Helper.dll
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\MonoGame.Framework.dll
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\bin\Debug\MonoGame.Framework.xml
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\obj\Debug\PASS 3.csproj.CoreCompileInputs.cache
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\obj\Debug\PASS 3.csproj.CopyComplete
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\obj\Debug\PASS 3.exe
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\obj\Debug\PASS 3.pdb
+C:\Users\Rich\Desktop\348648429\Computer Sciences\Assignments\PASS 3\PASS 3\obj\Debug\PASS 3.csprojAssemblyReference.cache

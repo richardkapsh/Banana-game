@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Fonts/BetweenFont.spritefont</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Fonts/messageFont.spritefont</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Fonts/titleFont.spritefont</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Background/CoolBackground.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Background/MonkeyTitle.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Banana.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Climb1-removebg-preview.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Climb2-removebg-preview.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Climb3-removebg-preview.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/ExitBtn2.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/GoBtn2.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/InstructionsBtn2.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Levels.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Lock.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Monkey.jpg</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/MonkeyAnimations.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Parchment.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Platform.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/PlayBtn2.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Throw1Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Throw1-removebg-preview.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Throw2Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Throw2-removebg-preview.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Throw3Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Throw3-removebg-preview.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Tree.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Tree-removebg-preview.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk1Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk1Removed.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk2Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk2Removed.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk3Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk3Removed.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk4Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk4Removed.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk5Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk5Removed.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk6Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk6Removed.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk7Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk7Removed.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk8Left.png</File>
+    <File>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Images/Sprites/Walk8Removed.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/Fonts/BetweenFont.spritefont</SourceFile>
+  <SourceTime>2022-06-21T20:27:18.9340152-04:00</SourceTime>
+  <DestFile>C:/Users/Rich/Desktop/348648429/Computer Sciences/Assignments/PASS 3/PASS 3/Content/bin/DesktopGL/Fonts/BetweenFont.xnb</DestFile>
+  <DestTime>2022-06-21T20:29:52.2105461-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-04-03T19:07:44.6883621-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-04-03T19:07:44.6883621-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
