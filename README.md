@@ -33,8 +33,8 @@ git clone https://github.com/richardkapsh/Banana-game
 ```bash
 cd Banana-game
 
-3. Open the .csproj in Visual Studio
-4. Press F5 to run
+4. Open the .csproj in Visual Studio
+5. Press F5 to run
 
 - What I learned
 This was my first full game using MonoGame. It helped me learn game architecture, handling sprites, developing physics systems, detecting collisions, and game loops.
