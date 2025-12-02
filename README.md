@@ -33,7 +33,7 @@ https://github.com/richardkapsh/Banana-game
 
 Find the Banana-game folder in File Explorer and press "Select Folder"
    
-5. Run PASS 3.csproj
+4. Run PASS 3.csproj
 
 If there is a pop-up that says "Build failed. Do you want to continue debugging?", press "Yes"
 
