@@ -27,7 +27,7 @@ Visual Studio
 1. Install MonoGame + Visual Studio 2019 (or later versions because it's backwards compatible)
 2. Clone this repository:
 
-git clone https://github.com/richardkapsh/Banana-game
+https://github.com/richardkapsh/Banana-game
 
 3. Select Git -> Local Repositories... -> Folder (or Ctrl + Shift + Alt + O)
 
