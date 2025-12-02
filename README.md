@@ -24,17 +24,19 @@ Visual Studio
 
 
 - How to Run
-1. Install MonoGame + Visual Studio
+1. Install MonoGame + Visual Studio 2019 (or later versions because it's backwards compatible)
 2. Clone this repository:
 
 git clone https://github.com/richardkapsh/Banana-game
 
-3. Change to its directory
+3. Select Git -> Local Repositories... -> Folder (or Ctrl + Shift + Alt + O)
 
-cd Banana-game
+Find the Banana-game folder in File Explorer and press "Select Folder"
+   
+5. Run PASS 3.csproj
 
-4. Open the .csproj in Visual Studio
-5. Press F5 to run
+If there is a pop-up that says "Build failed. Do you want to continue debugging?", press "Yes"
+
 
 - What I learned
 This was my first full game using MonoGame. It helped me learn game architecture, handling sprites, developing physics systems, detecting collisions, and game loops.
