@@ -23,7 +23,7 @@ Visual Studio
 `Content/` – textures and sprites
 
 
-- How to Run
+- How to Run (On Visual Studio)
 1. Install MonoGame + Visual Studio 2019 (or later versions because it's backwards compatible)
 2. Clone this repository:
 
