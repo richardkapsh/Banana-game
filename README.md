@@ -26,11 +26,11 @@ Visual Studio
 - How to Run
 1. Install MonoGame + Visual Studio
 2. Clone this repository:
-```bash
+
 git clone https://github.com/richardkapsh/Banana-game
 
 3. Change to its directory
-```bash
+
 cd Banana-game
 
 4. Open the .csproj in Visual Studio
